@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>health_calc_console_dotnet</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Description>Bilbioteca para calculos de IMC e Macronutrientes.</Description>
+    <RepositoryUrl>https://github.com/samueljmacedo/health-calc-pack-dotnet</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

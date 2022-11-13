@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>health-calc-pack-dotnet</id>
+    <version>1.0.0</version>
+    <title>Health Calc</title>
+    <authors>health-calc-pack-dotnet</authors>
+    <description>Uma calculadora de IMC e Macronutrientes.</description>
+    <repository url="https://github.com/samueljmacedo/health-calc-pack-dotnet" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.dll" target="lib\net6.0\health-calc-pack-dotnet.dll" />
+  </files>
+</package>
