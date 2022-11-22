@@ -17,7 +17,7 @@ namespace health_calc_pack_dotnet
 
         public string RetornarClassificacaoIMC(double IMC)
         {
-            if (IMC < 18)
+            if (IMC < 18.5)
                return IndiceIMC.ABAIXO_DO_PESO.Value;
             else if (IMC >= 18.5 && IMC < 25)
                 return IndiceIMC.PESO_NORMAL.Value;

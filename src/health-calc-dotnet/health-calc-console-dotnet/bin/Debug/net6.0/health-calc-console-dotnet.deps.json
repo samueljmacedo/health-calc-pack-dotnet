@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "health-calc-console-dotnet/1.0.0": {
+        "dependencies": {
+          "health-calc-pack-dotnet-sjmc": "1.0.0"
+        },
         "runtime": {
           "health-calc-console-dotnet.dll": {}
+        }
+      },
+      "health-calc-pack-dotnet-sjmc/1.0.0": {
+        "runtime": {
+          "lib/net6.0/health-calc-pack-dotnet-sjmc.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "health-calc-pack-dotnet-sjmc/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E1XJi0NuZAp3Z6UyThYGquUPJSh/aVlkKRUPtFbYmf7gT+ZCTH2u/ZmDjCIPFL0vpo5anpfZYbNQPWvqyrNc6g==",
+      "path": "health-calc-pack-dotnet-sjmc/1.0.0",
+      "hashPath": "health-calc-pack-dotnet-sjmc.1.0.0.nupkg.sha512"
     }
   }
 }

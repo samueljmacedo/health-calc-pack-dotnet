@@ -13,3 +13,5 @@ C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\heal
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.pdb
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.genruntimeconfig.cache
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\ref\health-calc-console-dotnet.dll
+C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet-sjmc.dll
+C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-console-dotnet\obj\Debug\net6.0\health-calc-console-dotnet.csproj.CopyComplete

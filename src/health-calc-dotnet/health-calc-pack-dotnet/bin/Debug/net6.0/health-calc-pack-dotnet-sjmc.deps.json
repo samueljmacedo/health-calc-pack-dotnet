@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "health-calc-pack-dotnet/1.0.0": {
+      "health-calc-pack-dotnet-sjmc/1.0.0": {
         "runtime": {
-          "health-calc-pack-dotnet.dll": {}
+          "health-calc-pack-dotnet-sjmc.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "health-calc-pack-dotnet/1.0.0": {
+    "health-calc-pack-dotnet-sjmc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

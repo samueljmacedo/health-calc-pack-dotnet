@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "health-calc-pack-dotnet-sjmc/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/health-calc-pack-dotnet-sjmc.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/health-calc-pack-dotnet-sjmc.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "health-calc-pack-dotnet-sjmc/1.0.0": {
+      "sha512": "E1XJi0NuZAp3Z6UyThYGquUPJSh/aVlkKRUPtFbYmf7gT+ZCTH2u/ZmDjCIPFL0vpo5anpfZYbNQPWvqyrNc6g==",
+      "type": "package",
+      "path": "health-calc-pack-dotnet-sjmc/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "health-calc-pack-dotnet-sjmc.1.0.0.nupkg.sha512",
+        "health-calc-pack-dotnet-sjmc.nuspec",
+        "lib/net6.0/health-calc-pack-dotnet-sjmc.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "health-calc-pack-dotnet-sjmc >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sjmcr\\.nuget\\packages\\": {}
@@ -45,6 +70,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "health-calc-pack-dotnet-sjmc": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

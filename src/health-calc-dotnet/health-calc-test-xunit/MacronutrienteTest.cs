@@ -17,9 +17,9 @@ namespace health_calc_test_xunit
             var Objetivo = ObjetivoFisico.Cutting;
             var Expected = new MacronutrienteModel()
             {
-                Carboidratos = 0,
-                Proteinas = 0,
-                Gorduras = 0
+                Carboidratos = 170,
+                Proteinas = 170,
+                Gorduras = 85
             };
             //Act
             var Result = MacronutrienteObj.CalculoMacronutrientes(

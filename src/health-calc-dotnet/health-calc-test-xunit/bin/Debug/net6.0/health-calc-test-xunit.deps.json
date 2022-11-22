@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "coverlet.collector": "3.1.2",
-          "health-calc-pack-dotnet": "1.0.0",
+          "health-calc-pack-dotnet-sjmc": "1.0.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
@@ -1090,9 +1090,9 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "health-calc-pack-dotnet/1.0.0": {
+      "health-calc-pack-dotnet-sjmc/1.0.0": {
         "runtime": {
-          "health-calc-pack-dotnet.dll": {}
+          "health-calc-pack-dotnet-sjmc.dll": {}
         }
       }
     }
@@ -1747,7 +1747,7 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "health-calc-pack-dotnet/1.0.0": {
+    "health-calc-pack-dotnet-sjmc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

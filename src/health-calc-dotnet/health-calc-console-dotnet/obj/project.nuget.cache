@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r0QYaTubsGt6BtEpU4R9ornBTNwCwdZEvXCjOo6jR9ldu5hPXpbDxAmUB1A57LWfn1vT+QcQu6W8kkkH9cjsBw==",
+  "dgSpecHash": "msHhvE2XS2H8j2YnZlyo0pc8KoE9dXPPF1OnbvVF/ijJP5JB/OHzMeZNBXKrS6DBPJW22v1+KdmTOr52IqzW3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sjmcr\\Documents\\Web\\health-calc-pack-dotnet\\src\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sjmcr\\.nuget\\packages\\health-calc-pack-dotnet-sjmc\\1.0.0\\health-calc-pack-dotnet-sjmc.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,6 +8,7 @@
     <Title>Health Calc</Title>
     <Description>Uma calculadora de IMC e Macronutrientes.</Description>
     <RepositoryUrl>https://github.com/samueljmacedo/health-calc-pack-dotnet</RepositoryUrl>
+    <AssemblyName>health-calc-pack-dotnet-sjmc</AssemblyName>
   </PropertyGroup>
 
 </Project>

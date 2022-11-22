@@ -87,8 +87,6 @@ C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\heal
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\health-calc-pack-dotnet.dll
-C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\health-calc-pack-dotnet.pdb
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\health-calc-test-xunit.csproj.AssemblyReference.cache
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\health-calc-test-xunit.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\health-calc-test-xunit.AssemblyInfoInputs.cache
@@ -100,3 +98,5 @@ C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\heal
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\health-calc-test-xunit.pdb
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\health-calc-test-xunit.genruntimeconfig.cache
 C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\obj\Debug\net6.0\ref\health-calc-test-xunit.dll
+C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\health-calc-pack-dotnet-sjmc.dll
+C:\Users\sjmcr\Documents\Web\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-test-xunit\bin\Debug\net6.0\health-calc-pack-dotnet-sjmc.pdb

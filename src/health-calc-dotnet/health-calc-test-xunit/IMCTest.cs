@@ -1,4 +1,5 @@
 using health_calc_pack_dotnet;
+using health_calc_pack_dotnet.Enum;
 using Xunit;
 
 namespace health_calc_test_xunit
@@ -54,14 +55,14 @@ namespace health_calc_test_xunit
         [InlineData(35, "Obesidade Grau II")]
         [InlineData(39.99, "Obesidade Grau II")]
         [InlineData(40, "Obesidade Grau III")]
-        [InlineData(45, "Obesidade Grau II")]
+        [InlineData(45, "Obesidade Grau III")]
         public void testarRetornCategoriaIMC(double IMC, string ResultadoEsperado)
         {
             var imcClass = new IMC();
 
-            var Resultado = imcClass.RetornarClassificacaoIMC(IMC);
+            string Resultado = imcClass.RetornarClassificacaoIMC(IMC);
 
-            Assert.Equal(ResultadoEsperado, ResultadoEsperado);
+            Assert.Equal(ResultadoEsperado, Resultado);
         }
 
     }

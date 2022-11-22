@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i+TyBbFiA9JgrZVkB8ogvBmOv8RMQ4E9jEQ0W9W2VuE1RsK59NpnkyiwTFd1Wu4hOHl+F90Sia3ncVz3bmTwnQ==",
+  "dgSpecHash": "TuK/dxtrTAwAd8fKg5N6GzkxbMyPNbUtdR/AQReyThhoK2gEW5+Q+R3mWTq031nWZH+ujFhhvxad2uE+Obcztw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sjmcr\\Documents\\Web\\health-calc-pack-dotnet\\src\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,8 @@
     "C:\\Users\\sjmcr\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\sjmcr\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\sjmcr\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\sjmcr\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\sjmcr\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\sjmcr\\.nuget\\packages\\health-calc-pack-dotnet-sjmc\\1.0.0\\health-calc-pack-dotnet-sjmc.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
