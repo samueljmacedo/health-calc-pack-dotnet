@@ -22,7 +22,7 @@ https://xunit.net/
 ## 🚀 Instalando Health Calc Pack
 Para adicionar o pacote ao seu projeto:
 
-`dotnet add package health-calc-pack-dotnet --version 2.1.0`
+`dotnet add package health-calc-pack-dotnet-sjmc`
 
 ## 📄 Contéudo do pacote
 
